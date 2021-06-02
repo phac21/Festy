@@ -16,9 +16,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+Nos links abaixo você encontra o layout do projeto. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-[Mobile] - https://www.figma.com/file/7shWO0XvVathDUj0ZPiMsI/Happy-Mobile-2.0-(Copy)?node-id=48520%3A359
+[Mobile] - https://www.figma.com/file/u4VScIQ4ahCop4RZxuxqmz/Festy
 
 ##  Configurando nossa aplicação
 
