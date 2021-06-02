@@ -1,8 +1,8 @@
 ## 💻 Projeto
 
-O Fasty é uma PoC que foi construída para a Matéria de Programação para Dispositivos Móveis, do curso de Sistemas de informação, do Centro Universitário do Distrito Federal - UDF.
+O Festy é uma PoC que foi construída para a Matéria de Programação para Dispositivos Móveis, do curso de Sistemas de informação, do Centro Universitário do Distrito Federal - UDF.
 
-O Fasty foi inspirado no projeto Happy da Rocketseat. 
+O Festy foi inspirado no projeto Happy da Rocketseat. 
 
 ## 🚀 Tecnologias
 
